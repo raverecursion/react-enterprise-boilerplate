@@ -1,4 +1,4 @@
-# React - The Road To Enterprise boilerplate
+# React project boilerplate
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and enhanced with additional config and tools.
 
