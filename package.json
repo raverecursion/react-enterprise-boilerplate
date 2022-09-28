@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/jest": "^27.4.1",
     "@types/lodash-es": "^4.17.6",
-    "@types/node": "^16.11.26",
+    "@types/node": "^16.11.39",
     "@types/react": "^17.0.40",
     "@types/react-dom": "^17.0.13",
     "axios": "^0.26.0",
